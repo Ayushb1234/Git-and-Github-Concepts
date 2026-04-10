@@ -49,12 +49,17 @@ configuration
 **
 ----------------------------------------
 
-.git folder create hota hai
-Iske andar yeh important cheezein banti hain:
-HEAD → current branch pointer
-objects/ → saare commits & data
-refs/ → branches info
-Default branch set hoti hai (usually main ya master)
+1. .git folder create hota hai
+   
+2. Iske andar yeh important cheezein banti hain:
+
+3. HEAD → current branch pointer
+
+4. objects/ → saare commits & data
+
+5. refs/ → branches info
+
+6. Default branch set hoti hai (usually main ya master)
 
 **👉 Ab tum kar sakte ho:
 **
